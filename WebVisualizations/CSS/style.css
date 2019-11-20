@@ -1,0 +1,65 @@
+.navbar {
+    min-height: 80px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.container {
+    background-color: white;
+}
+
+h1 {
+    color: navy;
+    margin-top: 10px;
+}
+
+h2 {
+    color: navy;
+}
+
+.description-image {
+    width: 80%;
+    height: 60%;
+}
+
+.visualization-image {
+    width: 95%;
+    height: 95%;
+}
+
+#visualization {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#selected-plot {
+    background-color: teal;
+    padding-top: 5px;
+}
+
+#description {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+.footer {
+    min-height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: darkslategray;
+    color: white;
+    font-size: 10px;
+}
